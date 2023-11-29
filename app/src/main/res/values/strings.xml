@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubUserSubmission</string>
+    <string name="search_user">Cari Disini</string>
+    <string name="search">Username</string>
+    <string name="nama_user">Nama User</string>
+    <string name="text_not_found">user not found</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+</resources>
